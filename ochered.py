@@ -1,4 +1,4 @@
-from conftest import csf,  district_code, district_queue
+from ochered_stubs import csf,  district_code, district_queue, obj
 
 
 def query_queue(select_params, table_name, district_code, obj):
